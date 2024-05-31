@@ -34,7 +34,7 @@ The Image Encryption and Decryption Tool allows users to encrypt and decrypt ima
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/image-encryption-tool.git
+   git clone https://github.com/Anandkp21/PRODIGY_CS_TASK_02.git
    ```
 
 2. **Navigate to the project directory:**
