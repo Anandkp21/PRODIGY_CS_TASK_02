@@ -72,7 +72,7 @@ The Image Encryption and Decryption Tool allows users to encrypt and decrypt ima
 
 ### Encrypting an Image
 ```sh
-$ python image_encryption_tool.py
+$ python pixel.py
 Choose an option:
 1. Upload and Encrypt an image
 2. Decrypt an image
@@ -85,7 +85,7 @@ Encrypted image saved as: encrypted_image.png
 
 ### Decrypting an Image
 ```sh
-$ python image_encryption_tool.py
+$ python pixel.py
 Choose an option:
 1. Upload and Encrypt an image
 2. Decrypt an image
